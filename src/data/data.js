@@ -39,7 +39,7 @@ const data = [
         content: 'En esa noche de martes de abril, decidí tirar toda la carne al asador y me di un duro golpe de realidad, entendí que debí dar un adiós, debí darte el adiós en su momento en el momento en el que me despedí y pensé que tal vez tan solo tal vez debí haberme ido para siempre aquel día, tal vez lo entendí muy pero muy tarde, pero igual alejarme de ti fue una gran muestra de amor propio, tal vez aún no estabas en mis planes y aunque sigas en mis sueños con unas cuantas esperanzas de que saltes así como yo lo hice por ti y quisieras dar todo por tener algo creo que eso será uno más de mis sueños, será algo más de mis deseos de cosas imposibles, porque ahora solo te puedo ver, y ahora sí tengo el valor, para decidir y poder darte el adiós que no te di…',
         autor: 'Johann Gonzalez',
         cita: 'Te conviene no decirme que me quieres, prefiero que te alejes.',
-		description: 'How to apply vanilla extract themes to Next.js apps',
+		description: 'decidí tirar toda la carne al asador y me di un duro golpe de realidad',
 		date: 'Publicado el 29 de Junio del 2024',
 	},
 ];
