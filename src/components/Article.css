@@ -1,0 +1,40 @@
+.article-detail {
+    text-align: center;
+    background-color: floralwhite;
+    margin: 0 auto;
+    max-width: auto;
+    max-height: auto;
+    border-radius: 8px;
+  }
+  
+  .imagen-contenido {
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    border-radius: 3%;
+    margin-bottom: 20px;
+  }
+  
+  .article-detail h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .article-detail p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+  }
+
+  .cita{
+    font-style: italic;
+  }
+  .parrafo{
+    text-align: justify;
+    color: gray;
+    font-style: oblique;
+    height: auto;
+    width: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+  }

@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    background-color:gainsboro;
+  }
+  
+  .nav-links a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .nav-links a:hover {
+    color: #007bff;
+  }
+  
+  .logo img {
+    width: 50px;
+  }
